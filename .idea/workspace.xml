@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8d8b3b0-247d-40ab-a3c8-2b4aa87971fc" name="Changes" comment="" />
+    <list default="true" id="c8d8b3b0-247d-40ab-a3c8-2b4aa87971fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SmartphonePriceDataset.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SmartphonePriceDataset.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartphonePriceDataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SmartphonePriceDataset.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +42,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -57,6 +68,9 @@
       <updated>1746448488239</updated>
       <workItem from="1746448489390" duration="10000" />
       <workItem from="1746534530484" duration="6000" />
+      <workItem from="1746680696894" duration="734000" />
+      <workItem from="1746685159389" duration="38000" />
+      <workItem from="1746864605940" duration="1965000" />
     </task>
     <servers />
   </component>
