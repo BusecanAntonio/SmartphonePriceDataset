@@ -7,6 +7,7 @@
     <list default="true" id="c8d8b3b0-247d-40ab-a3c8-2b4aa87971fc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartphonePriceDataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SmartphonePriceDataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -69,7 +71,20 @@
       <workItem from="1746534530484" duration="6000" />
       <workItem from="1746680696894" duration="734000" />
       <workItem from="1746685159389" duration="38000" />
-      <workItem from="1746864605940" duration="3716000" />
+      <workItem from="1746864605940" duration="4023000" />
+      <workItem from="1747292359993" duration="190000" />
+      <workItem from="1747564133389" duration="2530000" />
+      <workItem from="1747567710061" duration="731000" />
+      <workItem from="1747732469078" duration="2316000" />
+      <workItem from="1747734959024" duration="592000" />
+      <workItem from="1747736011018" duration="564000" />
+      <workItem from="1747736986444" duration="899000" />
+      <workItem from="1747926267767" duration="43000" />
+      <workItem from="1747985901466" duration="90000" />
+      <workItem from="1747988410986" duration="1647000" />
+      <workItem from="1747990080335" duration="1244000" />
+      <workItem from="1747991344501" duration="2095000" />
+      <workItem from="1747993468433" duration="11358000" />
     </task>
     <servers />
   </component>
